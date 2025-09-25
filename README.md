@@ -4,6 +4,8 @@
 ## Training ##
 Step 1:
 Pretrain the FS module (run train_MLP.py)
+
+
 Step 2:
 Train our dual alignment GDA model (run main.py)
 
